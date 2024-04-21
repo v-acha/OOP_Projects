@@ -1,0 +1,2 @@
+# OOP_Projects
+ Welcome to my Object-Oriented Programming (OOP) Project repository! In this repository, you will find two projects: a Scrabble game and a bidding auction game. I have built these projects using classes and functions as a part of my journey to learn and understand Object-Oriented Programming (OOP) principles and standards. This repository is a reflection of my progress and experimentation as I continue to explore the world of OOP. You are welcome to join me in this journey of learning by doing.
